@@ -37,6 +37,9 @@
     "ember-resolver": "^2.0.3",
     "ember-welcome-page": "^1.0.3",
     "ember-maybe-import-regenerator": "0.1.4",
+    "rxjs": "^5.0.3",
+    "ember-browserify": "1.1.13",
+    "ember-fetch": "1.4.0",
     "loader.js": "^4.0.10"
   },
   "engines": {
